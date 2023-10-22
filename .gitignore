@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+__pycache__/*
+*.pyc
+
+# Local development settings
+*.sqlite3
+*.log
+
+# System files
+.DS_Store
+
+# Virtual environment
+venv/
+myenv/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Compiled Python files
+*.pyc
+
+# Generated Python files
+__pycache__/
+
+# Ignore the media files (uploads, user-generated content)
+media/
+
+# Ignore the static files (CSS, JavaScript, etc.)
+staticfiles/
+static/
+
+# Ignore sensitive or environment-specific information
+.env
